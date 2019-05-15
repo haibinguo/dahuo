@@ -3,7 +3,7 @@ git is free_udpated
 aaa
 b
 github上新添加的
-i
+iii
 
 
 
@@ -236,3 +236,6 @@ i
 
 
 9新增一行
+=======
+i新增一行
+>>>>>>> dev
